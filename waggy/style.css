@@ -806,7 +806,7 @@ Single Product section style start
   position: relative;
   height: 500px;
 }
-
+ 
 #banner-4 .banner-4left{ 
   position: absolute;
   color: #000000;
@@ -816,6 +816,13 @@ Single Product section style start
   width: 40%;
    
   background-color: rgba(115, 154, 218, 0.7); /* สีพร้อมความโปร่งใส */
+}
+#banner-4 .banner-4left2{ 
+  position: absolute;
+  color: #000000; 
+  top: -100px;
+  bottom: -100px; 
+  width: 40%; 
 }
  
 #banner-4 .contact-form {
@@ -869,4 +876,8 @@ Single Product section style start
 } 
 #customerdiv img{
   width: 100%;
+}
+#newdiv img{
+  width:80%;
+  top: 0px;
 }
