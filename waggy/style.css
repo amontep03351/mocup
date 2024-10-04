@@ -241,7 +241,7 @@ body {
   .btn-dark {
     padding: 0.6rem 1.5rem;
     font-size: 1rem;
-  }
+  } 
 }
 
 body {
@@ -778,4 +778,95 @@ Single Product section style start
   background-color: transparent;
   border-top: none;
 }
+#banner-3 img {
+  width: 80%;
+  padding: 0px;
+}
+#banner-3 .categories-item{
+  font-size: 0.7rem;
+}
+#banner-3  .text-banner-3{
+  color: #6D77B8;
+  font-size: 1.7rem;
+}
+#categories  .text-categories{
+  color: #6D77B8;
+  font-size: 1.7rem;
+}
+#banner-4 .text-banner-4{ 
+  padding-top: 10px;
+  color: #ffffff;
+  font-size: 1.7rem;
+}
+#news-section  .text-news-section{
+  color: #ffffff;
+  font-size: 1.7rem;
+}
+#banner-4 .container{ 
+  position: relative;
+  height: 500px;
+}
+
+#banner-4 .banner-4left{ 
+  position: absolute;
+  color: #000000;
+  background-color: #6a8db3;
+  top: -100px;
+  bottom: -100px; 
+  width: 40%;
+   
+  background-color: rgba(115, 154, 218, 0.7); /* สีพร้อมความโปร่งใส */
+}
  
+#banner-4 .contact-form {
+  width: 50%;
+  padding: 20px;
+}
+
+#banner-4 .contact-form h2 {
+  font-size: 24px;
+  color: #4b4b4b;
+  margin-bottom: 20px;
+}
+
+#banner-4 .contact-form .form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+#banner-4 .contact-form .form-group input,
+.contact-form .form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+#banner-4 .contact-form .form-group button {
+  padding: 10px 20px;
+  background-color: #5865F2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#banner-4 .contact-form .form-group button:hover {
+  background-color: #4752C4;
+}
+.sflag-icon{ 
+  width: 1px;
+  height: 1px;
+}
+#bannerabout img{
+  width: 100%;
+}
+#banner-2 img{
+  width: 100%;
+} 
+#customerdiv img{
+  width: 100%;
+}
